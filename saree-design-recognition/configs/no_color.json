@@ -1,0 +1,17 @@
+{
+  "seed": 17,
+  "epochs": 4,
+  "warmup_epochs": 1,
+  "batch_size": 12,
+  "p": 4,
+  "k": 2,
+  "lr": 0.0003,
+  "weight_decay": 0.0001,
+  "temperature": 0.1,
+  "grad_clip": 5.0,
+  "color_augmentation": false,
+  "amp": false,
+  "pretrained": true,
+  "synthetic_smoke": false,
+  "max_seconds": 1800
+}

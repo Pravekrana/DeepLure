@@ -1,0 +1,9 @@
+{
+  "best_validation_mAP": 1.0,
+  "epochs_executed": 4,
+  "real_design_claims_supported": false,
+  "reload_max_abs_difference": 0.0,
+  "seconds": 263.2833269949997,
+  "test_used": false,
+  "time_budget_reached": false
+}

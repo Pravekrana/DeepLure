@@ -1,0 +1,12 @@
+usage: cli.py [-h] [--device {auto,cpu,cuda,mps}]
+              {audit,split,fixtures,train,baseline,calibrate,lock,evaluate,gallery,retrieve,verify,benchmark}
+              ...
+
+Private local saree embedding pipeline; no automatic synthetic fallback
+
+positional arguments:
+  {audit,split,fixtures,train,baseline,calibrate,lock,evaluate,gallery,retrieve,verify,benchmark}
+
+options:
+  -h, --help            show this help message and exit
+  --device {auto,cpu,cuda,mps}

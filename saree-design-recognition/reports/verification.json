@@ -1,0 +1,28 @@
+{
+  "archive_extraction_test": "recorded separately in dist/extracted_verification.json after packaging",
+  "clean_real_notebook_outputs": true,
+  "corrected_duplicate_screen": {
+    "cross_partition_near_pixel_pairs": 0,
+    "method": "32x32 bilinear RGB MAE<=0.025; screening only, not proof of complete capture independence",
+    "near_pixel_pairs_remaining": 0,
+    "retained_representatives": 302
+  },
+  "executed_notebook_code_cells": 5,
+  "executed_notebook_mode": "synthetic_smoke",
+  "extracted_archive_tests": {
+    "extracted_tests_passed": true,
+    "isolated_from_original_package": true,
+    "missing_data_failed_clearly": true,
+    "network_or_real_dataset_required_for_tests": false,
+    "test_stdout": ".................                                                        [100%]\n17 passed in 24.02s"
+  },
+  "focused_tests": "17 passed",
+  "initial_run_status": "superseded after duplicate-screening correction; see CORRECTION_LOG.md",
+  "notebook_errors": 0,
+  "pip_check": "No broken requirements found",
+  "source_policy_reproduction": {
+    "entries": 169,
+    "matched": true
+  },
+  "test_log": ".................                                                        [100%]\n17 passed in 24.07s"
+}

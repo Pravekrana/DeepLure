@@ -1,0 +1,11 @@
+{
+  "approach_characters": 498,
+  "models": {
+    "gray": "f33b06ec18bac320ecd11e5ac3a9953fd43d5f0d8b941643bdd2be173447d57b",
+    "no_color": "674db1e855e156eabbfc94a93b37c0e1ff409caf0b25fd371715328d1f938dc5",
+    "rgb": "000fb32e3f04b9e9bd3466a5077af6cc83af5eaa0016360b6715b69b5cebf629",
+    "trained": "8e4397e67adef519efc5a21e8bcc3ffd8164152fc5a4df6c9b05c1f8db570a02"
+  },
+  "pretrained_checkpoint_sha256": "047dcff4addef86ea5bc2eff13c9614dc11f47ab1160d0a71a25e7db994f4e1f",
+  "split_sha256": "8bbd91963fe1faa1c77f6fc906ba4879d51ea2466f8407ae6ac0bd8aac3d81fc"
+}

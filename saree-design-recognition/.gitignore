@@ -1,0 +1,6 @@
+.venv/
+private/
+__pycache__/
+.pytest_cache/
+*.zip
+.ipynb_checkpoints/

@@ -1,0 +1,12 @@
+{
+  "eligible_source_files_verified": 302,
+  "note": "Post-run integrity check only; prior v1 test invalidation disclosed",
+  "pixel_duplicate_screen": {
+    "cross_partition_near_pixel_pairs": 0,
+    "method": "32x32 bilinear RGB MAE<=0.025; screening only, not proof of complete capture independence",
+    "near_pixel_pairs_remaining": 0,
+    "retained_representatives": 302
+  },
+  "real_test_metrics_recomputed": false,
+  "sha256_match": true
+}

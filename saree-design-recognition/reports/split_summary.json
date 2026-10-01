@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "test/excluded": 332,
+    "test/synthetic_gallery": 45,
+    "train/excluded": 799,
+    "train/train": 211,
+    "val/excluded": 200,
+    "val/synthetic_gallery": 46
+  },
+  "manifest_sha256": "05a7bdd555cf1ba265c5426c549a57ac238b0524d578574da5884687a5047aac",
+  "mode": "instance",
+  "negative_semantics": "different representative instance, not verified different design",
+  "pair_counts": {
+    "test": {
+      "gallery": 45,
+      "negative": 1980,
+      "positive": 45,
+      "query": 45
+    },
+    "val": {
+      "gallery": 46,
+      "negative": 2070,
+      "positive": 46,
+      "query": 46
+    }
+  },
+  "positive_semantics": "same photograph after deterministic synthetic transformation",
+  "rank_unit": "image",
+  "seed": 17,
+  "split_sha256": "8bbd91963fe1faa1c77f6fc906ba4879d51ea2466f8407ae6ac0bd8aac3d81fc"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "backbone_frozen": true,
+    "batches": 18,
+    "elapsed_seconds": 66.60054201399998,
+    "epoch": 1,
+    "gradient_norm_mean": 1.9701273126734629,
+    "loss": 0.23991495981398556,
+    "validation_embedding_std_mean": 0.059888921678066254,
+    "validation_mAP": 0.9891304347826086
+  },
+  {
+    "backbone_frozen": false,
+    "batches": 18,
+    "elapsed_seconds": 148.94079501099986,
+    "epoch": 2,
+    "gradient_norm_mean": 3.6549304732018046,
+    "loss": 0.07543523547550042,
+    "validation_embedding_std_mean": 0.05827542394399643,
+    "validation_mAP": 1.0
+  },
+  {
+    "backbone_frozen": false,
+    "batches": 18,
+    "elapsed_seconds": 215.4186647939996,
+    "epoch": 3,
+    "gradient_norm_mean": 2.5934066275755563,
+    "loss": 0.05616355356242922,
+    "validation_embedding_std_mean": 0.05963169038295746,
+    "validation_mAP": 1.0
+  },
+  {
+    "backbone_frozen": false,
+    "batches": 18,
+    "elapsed_seconds": 261.8355527040003,
+    "epoch": 4,
+    "gradient_norm_mean": 1.8916901648044586,
+    "loss": 0.04227089658120854,
+    "validation_embedding_std_mean": 0.059501126408576965,
+    "validation_mAP": 1.0
+  }
+]

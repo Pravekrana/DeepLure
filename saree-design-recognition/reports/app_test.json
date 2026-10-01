@@ -1,0 +1,8 @@
+{
+  "experiment": "corrected_v2",
+  "file_upload_browser_interaction": "not automated; shared inference APIs tested separately",
+  "loaded_with_real_local_assets": true,
+  "missing_asset_error_checked": true,
+  "server_health": "HTTP 200 ok at localhost:8501",
+  "synthetic_warning_present": true
+}

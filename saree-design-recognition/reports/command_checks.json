@@ -1,0 +1,7 @@
+{
+  "retrieve_cli_exit": 0,
+  "verify_cli_exit": 0,
+  "top_k_returned": 5,
+  "calibration_claim_supported": false,
+  "purpose": "API sanity, not evaluation"
+}

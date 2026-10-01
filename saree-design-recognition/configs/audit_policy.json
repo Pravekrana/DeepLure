@@ -1,0 +1,21 @@
+{
+  "excluded_public_file_sha256": [
+    "17e697e0250a3311827cc1fb4560f28fe40af6091d8d85b20ec7daa8f9a62507",
+    "1dfaeedf9cac01cf2038378fc18667d797f968b590c0b0770c98d1bad8cb2441",
+    "c826575a4c47b45e995f62e76b4c67e2d47fcd5bdcd9c1649a957106214dc2e0",
+    "ff3103f4a63230ff5328b5651f1c895dafbe242e7fb1b39aed691f8b868b870a"
+  ],
+  "note": "Public-source furniture exclusions by content hash; no vendor image hashes or access IDs are published.",
+  "public_exclusion_annotation": {
+    "annotation_confidence": "high",
+    "annotation_provenance": "AI-assisted visual audit: same upholstered chair background, non-saree object; no design identity claim",
+    "capture_group": "ai_observed_common_furniture_render",
+    "excluded_reason": "visually_identified_non_saree_furniture_render"
+  },
+  "vendor_annotation": {
+    "annotation_confidence": "unknown",
+    "annotation_provenance": "AI-assisted visual audit: repeated shifted motif views; no source capture or design IDs. Conservative exclusion, not human-verified.",
+    "capture_group": "vendor_capture_independence_unresolved",
+    "excluded_reason": "vendor_independent_capture_and_design_truth_unresolved"
+  }
+}

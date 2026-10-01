@@ -1,0 +1,7 @@
+{
+  "extracted_tests_passed": true,
+  "test_stdout": ".................                                                        [100%]\n17 passed in 27.21s",
+  "missing_data_failed_clearly": true,
+  "isolated_from_original_package": true,
+  "network_or_real_dataset_required_for_tests": false
+}
